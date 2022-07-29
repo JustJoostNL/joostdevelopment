@@ -65,6 +65,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = "Get a list of categories with posts"
+  [[menu.main]]
+    weight = 0
+    identifier = "home"
+    pre = ""
+    post = ""
+    name = "Homepage"
+    url = ""
+    title = "Get back to the beautiful homepage!"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -94,7 +102,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "Joost Development"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -527,7 +535,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   #  Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
