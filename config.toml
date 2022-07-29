@@ -70,7 +70,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = ""
+  gitRepo = "https://github.com/koningcool/joostdevelopment"
   #  which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
@@ -185,11 +185,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "https://www.multisignaal.nl/wp-content/uploads/2021/08/blank-profile-picture-973460_1280.png"
       #  title shown in home page (HTML format is supported)
-      title = "About"
+      title = "Joost"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "me"
+      subtitle = "van Nierop"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -210,9 +210,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     GitHub = "koningcool"
     Linkedin = ""
     Twitter = "joost_vnierop"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -488,7 +488,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # character used for the cursor (HTML format is supported)
     cursorChar = "|"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
-    duration = -1
+    duration = 3
 
   # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
