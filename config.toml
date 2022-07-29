@@ -205,7 +205,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Joost"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "van Nierop"
+      subtitle = "My personal website."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -225,7 +225,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.social]
     GitHub = "koningcool"
     Linkedin = ""
-    Twitter = "joost_vnierop"
+    Twitter = ""
     Instagram = ""
     Facebook = ""
     Telegram = ""
