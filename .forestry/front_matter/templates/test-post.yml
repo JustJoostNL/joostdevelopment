@@ -1,4 +1,10 @@
 ---
 label: Test post
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: Name
+  description: Put your name in here!
