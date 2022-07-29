@@ -8,3 +8,5 @@ fields:
     required: true
   label: Name
   description: Put your name in here!
+pages:
+- content/projects.md
