@@ -1,5 +1,6 @@
 +++
 name = "Projects"
+
 +++
 ![](/uploads/project-363266_1920.jpg)
 
@@ -16,7 +17,7 @@ Minecraft Bedrock server plugins:
 
 Websites:
 
-* Joost Development website - This is the website you're now browsing on.
+* [Joost Development website](https://projectmanager.joost.systems/agiles/131-3/current "Go to the project management website of the website. ") - This is the website you're now browsing on.
 
 More projects may be coming soon!
 
