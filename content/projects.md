@@ -13,7 +13,7 @@ Minecraft Java server plugins:
 
 Minecraft Bedrock server plugins:
 
-* LoadAllWorlds - Load all your worlds in your Minecraft Bedrock server! (only security patches, bug fixes, and API upgrades, maybe new features)
+* [LoadAllWorlds](https://projectmanager.joost.systems/agiles/131-5/current "Go to the project management website of the LoadAllWorlds plugin. ") - Load all your worlds in your Minecraft Bedrock server! (only security patches, bug fixes, and API upgrades, maybe new features)
 
 Websites:
 
