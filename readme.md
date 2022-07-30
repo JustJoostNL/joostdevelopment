@@ -1,0 +1,2 @@
+Welcome to the GitHub repository of my website, Joost Development.
+In this repository you can track the development of the website by looking at the commits, in the feature there will bo something better!
