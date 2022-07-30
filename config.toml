@@ -4,7 +4,7 @@ baseURL = "https://site.joost.systems"
 theme = "LoveIt"
 
 # website title
-title = "Joost Development"
+title = "Joost Developments"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
