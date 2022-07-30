@@ -2,6 +2,7 @@
 title: Welcome on the website!
 date: 2022-07-29T20:00:38.000+00:00
 tags: [welcomepost, intro, explain, website, github]
+categories: [explanations]
 
 
 ---
