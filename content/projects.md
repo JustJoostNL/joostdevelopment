@@ -19,3 +19,11 @@ Websites:
 * Joost Development website - This is the website you're now browsing on.
 
 More projects may be coming soon!
+
+If you don't understand how to get on the project management website, check this tutorial:
+
+<iframe src="https://scribehow.com/embed/Joost_Workflow__ARM0Rs4CTAGOAOWW9JoTHg?skipIntro=true&as=scrollable" width="640" height="640" allowfullscreen frameborder="0"></iframe>
+
+Now on the project management website but you don't know how it works, got you :)
+
+<iframe src="https://scribehow.com/embed/Joost_Workflow__4RSOFnKdQfO0Yjo2sfcYAQ?skipIntro=true&as=scrollable" width="640" height="640" allowfullscreen frameborder="0"></iframe>
