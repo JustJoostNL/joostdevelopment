@@ -1,6 +1,6 @@
 +++
 name = "Projects"
-tags = [test]
+tags = 'projects, test'
 +++
 ![](/uploads/project-363266_1920.jpg)
 
