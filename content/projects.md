@@ -8,7 +8,7 @@ Welcome to the projects page, below you can see most of my open-source projects.
 
 Minecraft Java server plugins:
 
-* FastBoat - You can change the speed of boats.
+* [FastBoat](https://projectmanager.joost.systems/agiles/131-7/current "Go to the project management website of the FastBoat plugin. ") - You can change the speed of boats.
 * [BlockWalk](https://projectmanager.joost.systems/agiles/131-6/current "Go to the project management page of the BlockWalk plugin.") - The block below you will change in a redstone block.
 
 Minecraft Bedrock server plugins:
@@ -17,7 +17,7 @@ Minecraft Bedrock server plugins:
 
 Websites:
 
-* [Joost Development website](https://projectmanager.joost.systems/agiles/131-3/current "Go to the project management website of the website. ") - This is the website you're now browsing on.
+* [Joost Development website](https://projectmanager.joost.systems/agiles/131-3/current "Go to the project management website of the Joost Development website. ") - This is the website you're now browsing on.
 
 More projects may be coming soon!
 
