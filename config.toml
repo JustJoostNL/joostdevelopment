@@ -201,7 +201,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "https://www.multisignaal.nl/wp-content/uploads/2021/08/blank-profile-picture-973460_1280.png"
+      avatarURL = "/uploads/joostdevelopmentlogo.png"
       #  title shown in home page (HTML format is supported)
       title = "Joost"
       # subtitle shown in home page (HTML format is supported)
