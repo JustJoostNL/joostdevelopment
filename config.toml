@@ -122,7 +122,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = '<!-- 100% privacy friendly analytics --> <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script> <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>'
+    custom = '<script async defer src="https://tracking.joost.systems/latest.js"></script> <noscript><img src="https://tracking.joost.systems/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
