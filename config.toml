@@ -30,6 +30,104 @@ enableEmoji = true
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
+# determines default content language ["en", "zh-cn", "fr", "pl", ...]
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    weight = 1
+    title = "Joost Development"
+    languageCode = "en"
+    languageName = "English"
+  [[languages.en.menu.main]]
+    weight = 3
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    title = ""
+  [[languages.en.menu.main]]
+    weight = 4
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[languages.en.menu.main]]
+    weight = 5
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+  [[languages.en.menu.main]]
+    weight = 1
+    identifier = "home"
+    pre = ""
+    post = ""
+    name = "Homepage"
+    url = ""
+    title = "Get back to the beautiful homepage!"
+  [[languages.en.menu.main]]
+    weight = 2
+    identifier = "projects"
+    pre = ""
+    post = ""
+    name = "Projects"
+    url = "/projects"
+    title = "See the feature!"
+  [languages.nl]
+    weight = 2
+    title = "Joost Development"
+    languageCode = "nl"
+    languageName = "Dutch"
+  [[languages.nl.menu.main]]
+    weight = 3
+    identifier = "berichten"
+    pre = ""
+    post = ""
+    name = "Berichten"
+    url = "/posts/"
+    title = ""
+  [[languages.nl.menu.main]]
+    weight = 4
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[languages.nl.menu.main]]
+    weight = 5
+    identifier = "Categorieën"
+    pre = ""
+    post = ""
+    name = "Categorieën"
+    url = "/categories/"
+    title = ""
+  [[languages.nl.menu.main]]
+    weight = 1
+    identifier = "Homepagina"
+    pre = ""
+    post = ""
+    name = "Homepagina"
+    url = ""
+    title = "Ga terug naar de prachtige homepagina!"
+  [[languages.nl.menu.main]]
+    weight = 2
+    identifier = "projecten"
+    pre = ""
+    post = ""
+    name = "Projecten"
+    url = "/projects"
+    title = "Bekijk de mooiste projecten ooit!"
+
+
+
+
 # Author config
 [author]
   name = "Joost"
@@ -195,8 +293,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.home]
     #  amount of RSS pages
     rss = 10
-    # Home page profile
-    [params.home.profile]
+    # Home page profile (English)
+    [languages.en.params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
@@ -206,6 +304,23 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       title = "Joost"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "My personal website."
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = true
+      #  disclaimer (HTML format is supported)
+      disclaimer = ""
+    # Home page profile (dutch)
+    [languages.nl.params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/uploads/joostdevelopmentlogo.png"
+      #  title shown in home page (HTML format is supported)
+      title = "Joost"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "Mijn persoonlijke website."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
