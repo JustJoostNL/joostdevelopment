@@ -8,4 +8,4 @@ categories: [uitleg]
 ---
 ![](/uploads/joostdevelopmentlogo.png)
 
-Welkom! Dit is het eerste bericht op mijn website, op deze website kun je de meeste van mijn open-source projecten tracken, deze open-source projecten staan op [GitHub](https://github.com/koningcool "GitHub"). Klik [hier](/projects "projects") om naar de projecten pagina te gaan!
+Welkom! Dit is het eerste bericht op mijn website, op deze website kun je de meeste van mijn open-source projecten tracken, deze open-source projecten staan op [GitHub](https://github.com/koningcool "GitHub"). Klik [hier](/nl/projects "projects") om naar de projecten pagina te gaan!
