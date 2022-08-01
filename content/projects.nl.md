@@ -1,8 +1,6 @@
-+++
-name = "Projecten"
++++ name = "Projecten"
 
-+++
-![](/uploads/project-363266_1920.jpg)
++++ ![](/uploads/project-363266_1920.jpg)
 
 Welkom op de projecten pagina!, hier beneden kun je de meeste van mijn open-source projecten zien. Klik op een van de projecten om ze te tracken en updates te volgen.
 
@@ -13,7 +11,7 @@ Minecraft Java server plugins:
 
 Minecraft Bedrock server plugins:
 
-* [LoadAllWorlds](https://projectmanager.joost.systems/agiles/131-5/current "Ga naar het project management systeem van de LoadAllWorlds plugin. ") - Laad al je wereleden in je Minecraft Bedrock server (alleen beveiligings updates, probleem oplossingen, en API upgrades, misschien later nieuwe functies.)
+* [LoadAllWorlds](https://projectmanager.joost.systems/agiles/131-5/current "Ga naar het project management systeem van de LoadAllWorlds plugin. ") - Laad al je wereleden in je Minecraft Bedrock server (alleen beveiligings updates, probleem oplossingen, en API upgrades, misschien later nieuwe functies.) (only security patches, bug fixes, and API upgrades, maybe new features)
 
 Websites:
 
@@ -23,8 +21,8 @@ Meer projecten komen misschien later!
 
 Als je niet begrijpt hoe je op de project management website moet komen, bekijk dit:
 
-<iframe src="https://scribehow.com/embed/Joost_Workflow_NL_1__ZjZNd3hBSeKPLJ8g6nLuZA?skipIntro=true&as=scrollable" width="640" height="640" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://scribehow.com/embed/Joost_Workflow__ARM0Rs4CTAGOAOWW9JoTHg?skipIntro=true&as=scrollable" width="640" height="640" allowfullscreen frameborder="0"></iframe>
 
 Ben je nu op de project management website maar weet je niet hoe het werkt, bekijk dit hieronder :)
 
-<iframe src="https://scribehow.com/embed/Joost_Workflow_NL__9l1iptSbTCmSRkw2lbFgDA?skipIntro=true&as=scrollable" width="640" height="640" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://scribehow.com/embed/Joost_Workflow__4RSOFnKdQfO0Yjo2sfcYAQ?skipIntro=true&as=scrollable" width="640" height="640" allowfullscreen frameborder="0"></iframe>
