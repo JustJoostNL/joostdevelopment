@@ -124,7 +124,6 @@ defaultContentLanguage = "en"
     name = "Projecten"
     url = "/projects"
     title = "Bekijk de mooiste projecten ooit!"
-
   [languages.de]
     weight = 2
     title = "Joost Development"
@@ -170,9 +169,6 @@ defaultContentLanguage = "en"
     name = "Projekte"
     url = "/projects"
     title = "Die schönsten Projekte aller Zeiten ansehen!"
-
-
-
 
 
 # Author config
@@ -409,6 +405,23 @@ defaultContentLanguage = "en"
       social = true
       #  disclaimer (HTML format is supported)
       disclaimer = ""
+    [languages.de.params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/uploads/joostdevelopmentlogo.png"
+      #  title shown in home page (HTML format is supported)
+      title = "Joost"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "Meine persönliche Website!"
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = true
+      #  disclaimer (HTML format is supported)
+      disclaimer = ""
+
     # Home page posts
     [params.home.posts]
       enable = true

@@ -1,6 +1,8 @@
-+++ Name = "Projekte"
++++ 
+Name = "Projekte"
 
-+++ ![](/uploads/project-363266_1920.jpg)
++++ 
+![](/uploads/project-363266_1920.jpg)
 
 Willkommen auf der Projektseite unten sehen Sie die meisten meiner Open-Source-Projekte. Klicken Sie auf eines der Projekte, um sie zu verfolgen und die Updates zu sehen!
 

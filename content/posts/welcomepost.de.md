@@ -13,4 +13,4 @@ categories:
 
 ![](/uploads/joostdevelopmentlogo.png)
 
-Willkommen! Dies ist der erste Beitrag auf meiner Webseite auf der Website können Sie Updates von den meisten meiner Open-Source-Projekte auf [GitHub](https://github.com/koningcool "GitHub") finden. Klicken Sie [hier](/projects "projects") um zur Projektseite zu gelangen!
+Willkommen! Dies ist der erste Beitrag auf meiner Webseite auf der Website können Sie Updates von den meisten meiner Open-Source-Projekte auf [GitHub](https://github.com/koningcool "GitHub") finden. Klicken Sie [hier](/de/projects "projects") um zur Projektseite zu gelangen!
