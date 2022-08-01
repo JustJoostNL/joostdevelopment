@@ -64,6 +64,14 @@ defaultContentLanguage = "en"
     url = "/categories/"
     title = ""
   [[languages.en.menu.main]]
+    weight = 6
+    identifier = "contact"
+    pre = ""
+    post = ""
+    name = "Contact"
+    url = "/contact/"
+    title = "Do you have a question, ask it here!"
+  [[languages.en.menu.main]]
     weight = 1
     identifier = "home"
     pre = ""
@@ -109,6 +117,14 @@ defaultContentLanguage = "en"
     url = "/categories/"
     title = ""
   [[languages.nl.menu.main]]
+    weight = 6
+    identifier = "contact"
+    pre = ""
+    post = ""
+    name = "Contact"
+    url = "/contact/"
+    title = "Heb je een vraag, vraag het hier!"
+  [[languages.nl.menu.main]]
     weight = 1
     identifier = "Homepagina"
     pre = ""
@@ -153,6 +169,14 @@ defaultContentLanguage = "en"
     name = "Kategorien"
     url = "/categories/"
     title = ""
+  [[languages.de.menu.main]]
+    weight = 6
+    identifier = "kontakt"
+    pre = ""
+    post = ""
+    name = "Kontakt"
+    url = "/contact/"
+    title = "Wenn Sie eine Frage haben, stellen Sie sie hier!"
   [[languages.de.menu.main]]
     weight = 1
     identifier = "startseite"
