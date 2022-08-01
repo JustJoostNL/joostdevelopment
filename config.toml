@@ -80,7 +80,7 @@ defaultContentLanguage = "en"
     url = "/projects"
     title = "See the feature!"
   [languages.nl]
-    weight = 2
+    weight = 3
     title = "Joost Development"
     languageCode = "nl"
     languageName = "Dutch"
@@ -124,6 +124,11 @@ defaultContentLanguage = "en"
     name = "Projecten"
     url = "/projects"
     title = "Bekijk de mooiste projecten ooit!"
+  [languages.de]
+  weight = 2
+  title = "Joost Development"
+  languageCode = "de"
+  languageName = "German"
 
 
 
