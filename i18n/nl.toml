@@ -196,3 +196,6 @@ other = "VERANDERD"
 [deleted]
 other = "VERWIJDERD"
 # === shortcodes/version.html ===
+
+[home123]
+other = "This is a test message."
